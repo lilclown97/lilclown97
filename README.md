@@ -1,14 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&section=header&text=YoungSungYun&fontSize=70&animation=twinkling)
-
-<br>
-
 <h2 align="center">👋 Intro 👋</h2>
 
 <br>
 
 <p align="center"><a href="https://www.instagram.com/yu_nys/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a> <a href="https://velog.io/@lilclown"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a></p>
 
-</br>
 </br>
 </br>
 
@@ -18,7 +13,6 @@
 
 <p align="center"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/></a> <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=Amazon AWS&logoColor=white"/></a></p>
 
-</br>
 </br>
 </br>
 
